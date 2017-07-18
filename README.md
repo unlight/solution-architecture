@@ -31,6 +31,8 @@
 - [Architecture for a Sass Project](http://www.sitepoint.com/?p=77453)
 
 ### Unsorted
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
+- [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
 - https://kb.epam.com/display/CTOOCC/Solution+Architecture
 - https://videoportal.epam.com/channel/kynoP8AoXg/videos
 - https://kb.epam.com/display/CTOOCC/Self-education+in+Solution+Architecture
