@@ -93,6 +93,33 @@
 - [Pluralsight] Developer to Architect [2013, ENG]
 - [Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]
 
+### EPAM Solution Architecture
+- [Solution Architecture](https://kb.epam.com/display/CTOOCC/Solution+Architecture)
+- [Who Is Solution Architect](https://kb.epam.com/display/CTOOCC/Who+is+Solution+Architect)
+- [Best Practices In Solution Architecture](https://kb.epam.com/display/CTOOCC/Best+practices+in+Solution+Architecture)
+- [Self Education In Solution Architecture](https://kb.epam.com/display/CTOOCC/Self-education+in+Solution+Architecture)
+
+### EPAM Architecture Excellence Initiative
+- [Architecture Excellence Initiative](https://videoportal.epam.com/channel/kynoP8AoXg/videos)
+- **Solution Architecture School**
+  - [Solution Architecture Introduction](https://videoportal.epam.com/video/KR7Aq0a4)
+  - [Business Architecture](https://videoportal.epam.com/video/qokpNbRA)
+  - [Quality Attributes, ASR (Part 1/2)](https://videoportal.epam.com/video/xazQAyJG)
+  - [Solution Architecture School Quality Attributes, ASR Part 2/2](https://videoportal.epam.com/video/PoAE6ro8)
+  - [Architecture Modeling](https://videoportal.epam.com/video/6Rn1d4or)
+  - [Architecture Documentation (Part 1/3)](https://videoportal.epam.com/video/9oXkzGaw)
+  - [Architecture Documentation (Part 2/3)](https://videoportal.epam.com/video/qayVEMol)
+
+### Documents
+- [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
+- [Structured Approach to Solution Architecture](https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture)
+
+### Micro Frontends
+- [Micro Frontends](https://github.com/neuland/micro-frontends)
+- [Introduction to Micro Frontends](https://www.tikalk.com/js/introduction-to-micro-frontends/)
+- [A microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
+- [The javascript metaframework](https://github.com/CanopyTax/single-spa)
+
 ### CSS
 - [Five Methodologies for Architecting CSS](https://dzone.com/articles/five-methodologies-for-architecting-css)
 - [CSS Architecture: First steps](https://www.ckl.io/blog/css-architecture-first-steps/)
@@ -101,28 +128,10 @@
 - Jonathan Snook - Scalable and Modular Architecture for CSS [2012, PDF, ENG]
 - [Architecture for a Sass Project](http://www.sitepoint.com/?p=77453)
 
-### EPAM Solution Architecture
-- [Solution Architecture](https://kb.epam.com/display/CTOOCC/Solution+Architecture)
-- [Who Is Solution Architect](https://kb.epam.com/display/CTOOCC/Who+is+Solution+Architect)
-- [Best Practices In Solution Architecture](https://kb.epam.com/display/CTOOCC/Best+practices+in+Solution+Architecture)
-- [Self Education In Solution Architecture](https://kb.epam.com/display/CTOOCC/Self-education+in+Solution+Architecture)
-
-### EPAM Architecture Excellence Initiative
-- [Solution Architecture Introduction](https://videoportal.epam.com/video/KR7Aq0a4)
-- [Business Architecture](https://videoportal.epam.com/video/qokpNbRA)
-- [Quality Attributes, ASR (Part 1/2)](https://videoportal.epam.com/video/xazQAyJG)
-- [Solution Architecture School Quality Attributes, ASR Part 2/2](https://videoportal.epam.com/video/PoAE6ro8)
-- [Architecture Modeling](https://videoportal.epam.com/video/6Rn1d4or)
-- [Architecture Documentation (Part 1/3)](https://videoportal.epam.com/video/9oXkzGaw)
-- [Architecture Documentation (Part 2/3)](https://videoportal.epam.com/video/qayVEMol)
-
-### Documents
-- [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
-- [Structured Approach to Solution Architecture](https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture)
-
 ### Other
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
 - [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
+- [Techniques](https://www.thoughtworks.com/radar/techniques)
 
 ### Unsorted
 - https://videoportal.epam.com/channel/kynoP8AoXg/videos
