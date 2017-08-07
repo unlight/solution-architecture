@@ -1,7 +1,6 @@
-### Buzzwords
+### Solution Architecture
 - [Solution Architecture](https://en.wikipedia.org/wiki/Solution_architecture)
-- [work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
-- [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
+- [Software Architecture Discipline Overview](http://www.softwarearchitectures.com/overview.html)
 
 ### Architectural Patterns
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
@@ -14,6 +13,7 @@
 - [Monitoring Microservices Architectures: Enterprise Best Practices](https://blog.risingstack.com/monitoring-microservices-architectures/)
 
 ### Books
+- [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 - [Microservices, IoT, and Azure](http://it-ebooks.info/book/6490/)
 - [Microservice Architecture : Aligning Principles, Practices, and Culture](http://it-ebooks.info/book/1471898598/)
 - [Information Architecture](http://it-ebooks.info/book/6337/)
@@ -132,9 +132,10 @@
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
 - [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
 - [Techniques](https://www.thoughtworks.com/radar/techniques)
+- [Work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
+- [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
 
 ### Unsorted
-- https://videoportal.epam.com/channel/kynoP8AoXg/videos
 - https://msdn.microsoft.com/en-us/library/ff650706.aspx
 - https://kb.epam.com/pages/viewpage.action?pageId=300828751
 - https://www.yammer.com/epam.com/#/Threads/show?threadId=899866942
