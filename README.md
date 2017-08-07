@@ -81,17 +81,17 @@
   - [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ### Video
-- O'Reilly Software Architecture Conference 2016: Integration Architecture
-- [Pluralsight] Become a Full-stack .NET Developer - Architecture and Testing [2016, ENG]
-- [Pluralsight.com / Allen Holub] Picturing Architecture: UML (The Good Bits) and More [2016, ENG]
-- [O'Reilly Media] Software Architecture Fundamentals Service-Based Architectures [2015, ENG]
-- [O'Reilly Media] Software Architecture Fundamentals Soft Skills [2015, ENG]
-- [O'Reilly Media] Software Architecture Fundamentals People Skills [2015, ENG]
-- [O'Reilly Media] Software Architecture Fundamentals Part I [2014, ENG]
-- [O'Reilly Media] Software Architecture Fundamentals Beyond the Basics [2014, ENG]
-- [learnvisualstudio.net] Application Architecture Fundamentals [2013, ENG]
-- [Pluralsight] Developer to Architect [2013, ENG]
-- [Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]
+- [O'Reilly Software Architecture Conference 2016: Integration Architecture](https://www.google.ru/search?q="O'Reilly+Software+Architecture+Conference+2016:+Integration+Architecture")
+- [[Pluralsight] Become a Full-stack .NET Developer - Architecture and Testing [2016, ENG]](https://www.google.ru/search?q="[Pluralsight]+Become+a+Full-stack+.NET+Developer+-+Architecture+and+Testing+[2016,+ENG]")
+- [[Pluralsight.com / Allen Holub] Picturing Architecture: UML (The Good Bits) and More [2016, ENG]](https://www.google.ru/search?q="[Pluralsight.com+/+Allen+Holub]+Picturing+Architecture:+UML+(The+Good+Bits)+and+More+[2016,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Service-Based Architectures [2015, ENG]](https://www.google.ru/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Service-Based+Architectures+[2015,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Soft Skills [2015, ENG]](https://www.google.ru/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Soft+Skills+[2015,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals People Skills [2015, ENG]](https://www.google.ru/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+People+Skills+[2015,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Part I [2014, ENG]](https://www.google.ru/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Part+I+[2014,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Beyond the Basics [2014, ENG]](https://www.google.ru/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Beyond+the+Basics+[2014,+ENG]")
+- [[learnvisualstudio.net] Application Architecture Fundamentals [2013, ENG]](https://www.google.ru/search?q="[learnvisualstudio.net]+Application+Architecture+Fundamentals+[2013,+ENG]")
+- [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.ru/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]")
+- [[Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]](https://www.google.ru/search?q="[Pluralsight.com+/+Matthew+Renze]+Clean+Architecture:+Patterns,+Practices,+and+Principles+[2017,+ENG]")
 
 ### EPAM Solution Architecture
 - [Solution Architecture](https://kb.epam.com/display/CTOOCC/Solution+Architecture)
