@@ -6,6 +6,8 @@
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
 - [Microservices](http://microservices.io/index.html)
+- [Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
+- [A pattern language for microservices](http://microservices.io/patterns/index.html)
 
 ### Articles
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
@@ -13,28 +15,29 @@
 - [Monitoring Microservices Architectures: Enterprise Best Practices](https://blog.risingstack.com/monitoring-microservices-architectures/)
 
 ### Books
-- [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
-- [Microservices, IoT, and Azure](http://it-ebooks.info/book/6490/)
-- [Microservice Architecture : Aligning Principles, Practices, and Culture](http://it-ebooks.info/book/1471898598/)
-- [Information Architecture](http://it-ebooks.info/book/6337/)
-- [Microsoft .NET: Architecting Applications for the Enterprise](http://it-ebooks.info/book/5734/)
-- [Big Data Application Architecture Q&A : A Problem - Solution Approach](http://it-ebooks.info/book/3280/)
-- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
-- [Software Architecture in Practice](https://www.amazon.com/Software-Architecture-Practice-Edition-Engineering/dp/0321815734)
-- [Documenting Software Architectures: Views and Beyond](https://www.amazon.com/Documenting-Software-Architectures-Beyond-Edition/dp/0321552687)
-- [Designing Software Architectures: A Practical Approach (SEI Series in Software Engineering)](https://www.amazon.com/Designing-Software-Architectures-Practical-Engineering/dp/0134390784)
-- [Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives](https://www.amazon.com/Software-Systems-Architecture-Stakeholders-Perspectives/dp/032171833X)
-- [Essential Software Architecture](https://www.amazon.com/Essential-Software-Architecture-Ian-Gorton/dp/3642066844)
-- [Software Engineering: A Practitioner's Approach (Irwin Computer Science)](https://www.amazon.com/Software-Engineering-A-Practitioners-Approach/dp/0078022126)
-- [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)
-- [Evaluating Software Architectures: Methods and Case Studies ](https://www.amazon.com/Evaluating-Software-Architectures-Methods-Studies/dp/020170482X)
-- [Reactive Design Patterns](https://www.amazon.com/Reactive-Design-Patterns-Roland-Kuhn/dp/1617291803)
-- [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
-- [Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design](http://www.amazon.com/Beautiful-Architecture-Leading-Thinkers-Software/dp/059651798X)
-- [500 Lines or Less](https://www.amazon.com/500-Lines-Less-Amy-Brown/dp/1329871278)
-- [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
-- [The Architecture Of Open Source Applications](https://www.amazon.com/Architecture-Open-Source-Applications/dp/1257638017)
-- [The Architecture Of Open Source Applications, Volume II](https://www.amazon.com/Architecture-Open-Source-Applications/dp/1257638017)
+- **General Architectural Theory and Practice**
+  - [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
+  - [Microservices, IoT, and Azure](http://it-ebooks.info/book/6490/)
+  - [Microservice Architecture : Aligning Principles, Practices, and Culture](http://it-ebooks.info/book/1471898598/)
+  - [Information Architecture](http://it-ebooks.info/book/6337/)
+  - [Microsoft .NET: Architecting Applications for the Enterprise](http://it-ebooks.info/book/5734/)
+  - [Big Data Application Architecture Q&A : A Problem - Solution Approach](http://it-ebooks.info/book/3280/)
+  - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
+  - [Software Architecture in Practice](https://www.amazon.com/Software-Architecture-Practice-Edition-Engineering/dp/0321815734)
+  - [Documenting Software Architectures: Views and Beyond](https://www.amazon.com/Documenting-Software-Architectures-Beyond-Edition/dp/0321552687)
+  - [Designing Software Architectures: A Practical Approach (SEI Series in Software Engineering)](https://www.amazon.com/Designing-Software-Architectures-Practical-Engineering/dp/0134390784)
+  - [Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives](https://www.amazon.com/Software-Systems-Architecture-Stakeholders-Perspectives/dp/032171833X)
+  - [Essential Software Architecture](https://www.amazon.com/Essential-Software-Architecture-Ian-Gorton/dp/3642066844)
+  - [Software Engineering: A Practitioner's Approach (Irwin Computer Science)](https://www.amazon.com/Software-Engineering-A-Practitioners-Approach/dp/0078022126)
+  - [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)
+  - [Evaluating Software Architectures: Methods and Case Studies ](https://www.amazon.com/Evaluating-Software-Architectures-Methods-Studies/dp/020170482X)
+  - [Reactive Design Patterns](https://www.amazon.com/Reactive-Design-Patterns-Roland-Kuhn/dp/1617291803)
+  - [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
+  - [Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design](http://www.amazon.com/Beautiful-Architecture-Leading-Thinkers-Software/dp/059651798X)
+  - [500 Lines or Less](https://www.amazon.com/500-Lines-Less-Amy-Brown/dp/1329871278)
+  - [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
+  - [The Architecture Of Open Source Applications](https://www.amazon.com/Architecture-Open-Source-Applications/dp/1257638017)
+  - [The Architecture Of Open Source Applications, Volume II](https://www.amazon.com/Architecture-Open-Source-Applications/dp/1257638017)
 - **Aspects**
   - [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-%20Software/dp/0321125215)
   - [Implementing Domain-Driven Design](http://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
@@ -78,7 +81,6 @@
   - [Class 7: Work Breakdown Structure (WBS)](http://emanueledellavalle.org/slides/P&MSP2012_07_WBS.pdf)
   - [Class 14: Risk Management](http://emanueledellavalle.org/slides/P&MSP2014_14a_Risk-Management.pdf)
   - [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-  - [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ### Video
 - [O'Reilly Software Architecture Conference 2016: Integration Architecture](https://www.google.ru/search?q="O'Reilly+Software+Architecture+Conference+2016:+Integration+Architecture")
@@ -117,8 +119,16 @@
 ### Micro Frontends
 - [Micro Frontends](https://github.com/neuland/micro-frontends)
 - [Introduction to Micro Frontends](https://www.tikalk.com/js/introduction-to-micro-frontends/)
-- [A microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
 - [The javascript metaframework](https://github.com/CanopyTax/single-spa)
+- [A microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
+- [ThoughtWorks Technology Radar: Micro frontends](https://www.thoughtworks.com/radar/techniques/micro-frontends)
+- [Modernizing Upwork with Micro Frontends — Sep Nasiri, Upwork](https://www.upwork.com/blog/2017/05/modernizing-upwork-micro-frontends/)
+- [Introduction to Micro Frontends — Assaf Gannon](https://www.tikalk.com/js/introduction-to-micro-frontends/)
+- [Presentation: Micro Frontends: Building a modern webapp with multiple teams — Michael Geers (JSUnconf.eu 2017 in Hamburg)](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
+- [Microservice Grid and Micro Frontends — Dejan Glozic](https://dejanglozic.com/2017/02/22/microservice-grid-and-micro-frontends/)
+- [The monolithic frontend in the microservices architecture — Ruben Oostinga, Xebia](http://blog.xebia.com/the-monolithic-frontend-in-the-microservices-architecture/)
+- [Managing Frontend in the Microservices Architecture (Monolithic vs. Frankenstein approach) — Bartosz Gałek, Bartosz Walacik, Paweł Wielądek at Allegro](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
+- [Including Front-End Web Components Into Microservices — Viktor Farcic](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
 
 ### CSS
 - [Five Methodologies for Architecting CSS](https://dzone.com/articles/five-methodologies-for-architecting-css)
@@ -141,9 +151,6 @@
 - https://www.yammer.com/epam.com/#/Threads/show?threadId=899866942
 - https://info.epam.com/indepartment/AEI/department-news/webinars.html
 - `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
-- Technology Domains
-  - Cloud 
-  - Web 
-  - Messaging
-  - Big Data
-  - Search
+- https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16
+- https://www.youtube.com/watch?v=Fuac__g928E
+- event sourcing
