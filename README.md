@@ -145,6 +145,11 @@
 - [Work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
 - [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
 
+### Tools
+- [A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
+- [Open Source Continuous Integration & Deployment Server](https://github.com/Strider-CD/strider)
+- [Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty](https://github.com/arachnys/cabot)
+
 ### Unsorted
 - https://msdn.microsoft.com/en-us/library/ff650706.aspx
 - https://kb.epam.com/pages/viewpage.action?pageId=300828751
