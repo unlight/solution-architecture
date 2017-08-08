@@ -13,6 +13,7 @@
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
 - [Application Architecture and Ransomware](https://dzone.com/articles/application-architecture-and-ransomware)
 - [Monitoring Microservices Architectures: Enterprise Best Practices](https://blog.risingstack.com/monitoring-microservices-architectures/)
+- [Architectural Blueprints — The "4+1" View Model of Software Architecture](http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
 
 ### Books
 - **General Architectural Theory and Practice**
@@ -115,6 +116,10 @@
 ### Documents
 - [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
 - [Structured Approach to Solution Architecture](https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture)
+- [Sample Views](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
+- [Example of a Software Architecture Document created as a companion to "Documenting Software Architectures: Views and Beyond"](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
+- [Documenting Software Architectures](https://www.slideshare.net/pagsousa/documenting-software-architectures)
+- [Architecture Document Template](https://www.slideshare.net/pmdelpech/gad-global-architecture-document-template-pm-delpech)
 
 ### Micro Frontends
 - [Micro Frontends](https://github.com/neuland/micro-frontends)
