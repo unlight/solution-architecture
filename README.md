@@ -142,7 +142,6 @@
 - [A microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
 - [ThoughtWorks Technology Radar: Micro frontends](https://www.thoughtworks.com/radar/techniques/micro-frontends)
 - [Modernizing Upwork with Micro Frontends](https://www.upwork.com/blog/2017/05/modernizing-upwork-micro-frontends/)
-- [Introduction to Micro Frontends ](https://www.tikalk.com/js/introduction-to-micro-frontends/)
 - [Presentation: Micro Frontends: Building a modern webapp with multiple teams ](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
 - [Microservice Grid and Micro Frontends](https://dejanglozic.com/2017/02/22/microservice-grid-and-micro-frontends/)
 - [The monolithic frontend in the microservices architecture ](http://blog.xebia.com/the-monolithic-frontend-in-the-microservices-architecture/)
