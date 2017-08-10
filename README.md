@@ -1,19 +1,33 @@
 ### Solution Architecture
 - [Solution Architecture](https://en.wikipedia.org/wiki/Solution_architecture)
 - [Software Architecture Discipline Overview](http://www.softwarearchitectures.com/overview.html)
+- [Software Architecture - Getting Started - Glossary](http://www.sei.cmu.edu/architecture/start/glossary/)
+- [Introduction to Software Architecture](http://www.cse.chalmers.se/edu/year/2016/course/course/EDA222_Real_Time_Systems/Documents/Slides/Software_Architecture_IH.pdf)
 
 ### Architectural Patterns
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
+
+### Microservices
 - [Microservices](http://microservices.io/index.html)
 - [Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
 - [A pattern language for microservices](http://microservices.io/patterns/index.html)
+- [A curated list of Microservice Architecture related principles and technologies](https://github.com/mfornos/awesome-microservices)
+- [A curated list of Microservice resources](https://github.com/wanghaisheng/awesome-microservice)
+- [Awesome Microservices Architectures](https://github.com/olalonde/awesome-microservice-archs)
+- [Links related to the microservice architecture](https://github.com/istinspring/awesome-microservices)
+- [A list of resources for building and testing microservice architectures](https://github.com/davidmerrick/awesome-microservices)
+- [Examples of real world software built with a microservice architecture](https://github.com/olalonde/awesome-microservice-archs)
+- [A hand-curated weekly newsletter with the best articles on microservices](https://microserviceweekly.com/)
 
 ### Articles
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
 - [Application Architecture and Ransomware](https://dzone.com/articles/application-architecture-and-ransomware)
 - [Monitoring Microservices Architectures: Enterprise Best Practices](https://blog.risingstack.com/monitoring-microservices-architectures/)
 - [Architectural Blueprints — The "4+1" View Model of Software Architecture](http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
+
+### Blogs
+- [Coding the Architecture](http://www.codingthearchitecture.com/)
 
 ### Books
 - **General Architectural Theory and Practice**
@@ -156,6 +170,7 @@
 - [Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty](https://github.com/arachnys/cabot)
 
 ### Unsorted
+- https://github.com/davidmerrick/awesome-microservices
 - https://msdn.microsoft.com/en-us/library/ff650706.aspx
 - https://kb.epam.com/pages/viewpage.action?pageId=300828751
 - https://www.yammer.com/epam.com/#/Threads/show?threadId=899866942
