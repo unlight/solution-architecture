@@ -7,6 +7,10 @@
 ### Architectural Patterns
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
+- **CQRS**
+  - [Pattern: Command Query Responsibility Segregation (CQRS)](http://microservices.io/patterns/data/cqrs.html)
+  - [Command and Query Responsibility Segregation (CQRS) in practice (RU)](http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
+  - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
 
 ### Microservices
 - [Microservices](http://microservices.io/index.html)
@@ -19,6 +23,8 @@
 - [A list of resources for building and testing microservice architectures](https://github.com/davidmerrick/awesome-microservices)
 - [Examples of real world software built with a microservice architecture](https://github.com/olalonde/awesome-microservice-archs)
 - [A hand-curated weekly newsletter with the best articles on microservices](https://microserviceweekly.com/)
+- [Designing a Microservices Architecture for Failure](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
+- [Observable Microservices](https://www.thoughtworks.com/talks/observable-microservices-xconf-eu-2017)
 
 ### Articles
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
@@ -28,9 +34,11 @@
 
 ### Blogs
 - [Coding the Architecture](http://www.codingthearchitecture.com/)
+- [Risingstack: we help companies succeed with Node.js](https://blog.risingstack.com/)
 
 ### Books
 - **General Architectural Theory and Practice**
+  - [.NET Microservices – Architecture for Containerized .NET Applications](http://aka.ms/MicroservicesEbook)
   - [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
   - [Microservices, IoT, and Azure](http://it-ebooks.info/book/6490/)
   - [Microservice Architecture : Aligning Principles, Practices, and Culture](http://it-ebooks.info/book/1471898598/)
@@ -63,6 +71,7 @@
   - [REST in Practice: Hypermedia and Systems Architecture](http://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829)
   - [APIs: A Strategy Guide. Creating Channels with Application Programming Interfaces](http://shop.oreilly.com/product/0636920021223.do)
   - [The Security Development Lifecycle: SDL: A Process for Developing Demonstrably More Secure Software](http://www.amazon.com/Security-Development-Lifecycle-Developing-Demonstrably/dp/0735622140/)
+  - [Microservice Databases: Migrating from Relational Monolith to Distributed Data](https://www.infoq.com/vendorcontent/show.action?vcr=4348)
 - **Enterprise**
   - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](http://www.amazon.com/dp/0321200683)
   - [Patterns of Enterprise Application Architecture](http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
@@ -167,6 +176,10 @@
 - [A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
 - [Open Source Continuous Integration & Deployment Server](https://github.com/Strider-CD/strider)
 - [Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty](https://github.com/arachnys/cabot)
+- [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch)
+- [Solr](https://en.wikipedia.org/wiki/Apache_Solr)
+- [Consule: Service Discovery and Configuration Made Easy](https://github.com/hashicorp/consul)
+- [pm2: Production Process Manager for Node.js apps with a built-in Load Balancer](https://github.com/Unitech/pm2)
 
 ### Unsorted
 - https://github.com/davidmerrick/awesome-microservices
@@ -178,3 +191,9 @@
 - https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16
 - https://www.youtube.com/watch?v=Fuac__g928E
 - event sourcing
+- Event Bus
+- Balancer
+- Monitoring
+- Service discovery
+- https://github.com/gliderlabs/registrator
+- http://events.techdays.ru/
