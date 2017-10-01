@@ -25,6 +25,7 @@
 - [A hand-curated weekly newsletter with the best articles on microservices](https://microserviceweekly.com/)
 - [Designing a Microservices Architecture for Failure](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
 - [Observable Microservices](https://www.thoughtworks.com/talks/observable-microservices-xconf-eu-2017)
+- [A practical concept of Microservices Architecture](https://medium.com/microservices-in-practice/microservices-in-practice-7a3e85b6624c)
 
 ### Articles
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
@@ -164,6 +165,7 @@
 - [Kushagra Gour: 10 Commandments for Efficient CSS Architecture - CSSConf.Asia 2014](https://www.youtube.com/watch?v=FYcu-wWrNqo)
 - Jonathan Snook - Scalable and Modular Architecture for CSS [2012, PDF, ENG]
 - [Architecture for a Sass Project](http://www.sitepoint.com/?p=77453)
+- [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
 
 ### Other
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
