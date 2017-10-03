@@ -36,6 +36,8 @@
 ### Blogs
 - [Coding the Architecture](http://www.codingthearchitecture.com/)
 - [Risingstack: we help companies succeed with Node.js](https://blog.risingstack.com/)
+- [Medium @ Software Architecture](https://medium.com/tag/software-architecture)
+- [Medium @ Microservices](https://medium.com/tag/microservices)
 
 ### Books
 - **General Architectural Theory and Practice**
@@ -106,6 +108,8 @@
   - [Class 7: Work Breakdown Structure (WBS)](http://emanueledellavalle.org/slides/P&MSP2012_07_WBS.pdf)
   - [Class 14: Risk Management](http://emanueledellavalle.org/slides/P&MSP2014_14a_Risk-Management.pdf)
   - [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- **Other**
+  - [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices-aw)
 
 ### Video
 - [O'Reilly Software Architecture Conference 2016: Integration Architecture](https://www.google.ru/search?q="O'Reilly+Software+Architecture+Conference+2016:+Integration+Architecture")
