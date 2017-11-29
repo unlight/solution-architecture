@@ -3,6 +3,7 @@
 - [Software Architecture Discipline Overview](http://www.softwarearchitectures.com/overview.html)
 - [Software Architecture - Getting Started - Glossary](http://www.sei.cmu.edu/architecture/start/glossary/)
 - [Introduction to Software Architecture](http://www.cse.chalmers.se/edu/year/2016/course/course/EDA222_Real_Time_Systems/Documents/Slides/Software_Architecture_IH.pdf)
+- [Awesome Project Questions](https://github.com/kucherenko/awesome-project-questions)
 
 ### Architectural Patterns
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
