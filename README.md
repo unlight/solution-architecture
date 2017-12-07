@@ -8,6 +8,7 @@
 ### Architectural Patterns
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
+- [Patterns for designing flexible architecture in node.js (CQRS/ES/Onion)](https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17)
 - **CQRS**
   - [Pattern: Command Query Responsibility Segregation (CQRS)](http://microservices.io/patterns/data/cqrs.html)
   - [Command and Query Responsibility Segregation (CQRS) in practice (RU)](http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
@@ -27,6 +28,7 @@
 - [Designing a Microservices Architecture for Failure](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
 - [Observable Microservices](https://www.thoughtworks.com/talks/observable-microservices-xconf-eu-2017)
 - [A practical concept of Microservices Architecture](https://medium.com/microservices-in-practice/microservices-in-practice-7a3e85b6624c)
+- [Microservice Architecture: All The Best Practices You Need To Know](http://codingsans.com/blog/microservice-architecture-best-practices)
 
 ### Articles
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
@@ -124,6 +126,10 @@
 - [[learnvisualstudio.net] Application Architecture Fundamentals [2013, ENG]](https://www.google.ru/search?q="[learnvisualstudio.net]+Application+Architecture+Fundamentals+[2013,+ENG]")
 - [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.ru/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]")
 - [[Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]](https://www.google.ru/search?q="[Pluralsight.com+/+Matthew+Renze]+Clean+Architecture:+Patterns,+Practices,+and+Principles+[2017,+ENG]")
+
+### Online Courses
+- [Software Architecture from University of Alberta](https://www.class-central.com/mooc/9217/coursera-software-architecture)
+- [Service-Oriented Architecture from University of Alberta](https://www.class-central.com/mooc/9219/coursera-service-oriented-architecture)
 
 ### EPAM Solution Architecture
 - [Solution Architecture](https://kb.epam.com/display/CTOOCC/Solution+Architecture)
