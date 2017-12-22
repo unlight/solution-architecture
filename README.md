@@ -193,6 +193,7 @@
 - [Solr](https://en.wikipedia.org/wiki/Apache_Solr)
 - [Consule: Service Discovery and Configuration Made Easy](https://github.com/hashicorp/consul)
 - [pm2: Production Process Manager for Node.js apps with a built-in Load Balancer](https://github.com/Unitech/pm2)
+- [Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
 
 ### Unsorted
 - https://github.com/davidmerrick/awesome-microservices
