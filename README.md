@@ -16,6 +16,7 @@
 
 ### Microservices
 - [Microservices](http://microservices.io/index.html)
+- [How To Cook Microservices (with Ruby spices)](http://howtocookmicroservices.com/)
 - [Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
 - [A pattern language for microservices](http://microservices.io/patterns/index.html)
 - [A curated list of Microservice Architecture related principles and technologies](https://github.com/mfornos/awesome-microservices)
@@ -194,6 +195,7 @@
 - [Consule: Service Discovery and Configuration Made Easy](https://github.com/hashicorp/consul)
 - [pm2: Production Process Manager for Node.js apps with a built-in Load Balancer](https://github.com/Unitech/pm2)
 - [Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
+- [Job queues, message queues and other queues. Almost all of them in one place.](http://queues.io/)
 
 ### Unsorted
 - https://github.com/davidmerrick/awesome-microservices
