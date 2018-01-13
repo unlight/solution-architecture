@@ -137,10 +137,9 @@
 - [Who Is Solution Architect](https://kb.epam.com/display/CTOOCC/Who+is+Solution+Architect)
 - [Best Practices In Solution Architecture](https://kb.epam.com/display/CTOOCC/Best+practices+in+Solution+Architecture)
 - [Self Education In Solution Architecture](https://kb.epam.com/display/CTOOCC/Self-education+in+Solution+Architecture)
-
-### EPAM Architecture Excellence Initiative
-- [Architecture Excellence Initiative](https://videoportal.epam.com/channel/kynoP8AoXg/videos)
-- **Solution Architecture School**
+- [Webinars](https://info.epam.com/indepartment/AEI/department-news/webinars.html)
+- [EPAM Yammer: Solution Architecture Group](https://www.yammer.com/epam.com/#/threads/inGroup?type=in_group&feedId=4269528)
+- [EPAM Architecture Excellence Initiative](https://videoportal.epam.com/channel/kynoP8AoXg/videos)
   - [Solution Architecture Introduction](https://videoportal.epam.com/video/KR7Aq0a4)
   - [Business Architecture](https://videoportal.epam.com/video/qokpNbRA)
   - [Quality Attributes, ASR (Part 1/2)](https://videoportal.epam.com/video/xazQAyJG)
@@ -148,6 +147,7 @@
   - [Architecture Modeling](https://videoportal.epam.com/video/6Rn1d4or)
   - [Architecture Documentation (Part 1/3)](https://videoportal.epam.com/video/9oXkzGaw)
   - [Architecture Documentation (Part 2/3)](https://videoportal.epam.com/video/qayVEMol)
+  - [Architecture Documentation (Part 3/3)](https://videoportal.epam.com/video/8JOA9yoG)
 
 ### Documents
 - [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
@@ -185,31 +185,26 @@
 - [Techniques](https://www.thoughtworks.com/radar/techniques)
 - [Work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
 - [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
+- [A guide to RESTful API design: 35+ must-reads](https://techbeacon.com/guide-restful-api-design-35-must-reads)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Tools
-- [A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
-- [Open Source Continuous Integration & Deployment Server](https://github.com/Strider-CD/strider)
-- [Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty](https://github.com/arachnys/cabot)
+- [Job queues, message queues and other queues. Almost all of them in one place](http://queues.io/)
+- [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
+- [strider: Open Source Continuous Integration & Deployment Server](https://github.com/Strider-CD/strider)
+- [cabot: Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty](https://github.com/arachnys/cabot)
 - [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch)
 - [Solr](https://en.wikipedia.org/wiki/Apache_Solr)
 - [Consule: Service Discovery and Configuration Made Easy](https://github.com/hashicorp/consul)
 - [pm2: Production Process Manager for Node.js apps with a built-in Load Balancer](https://github.com/Unitech/pm2)
-- [Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
-- [Job queues, message queues and other queues. Almost all of them in one place.](http://queues.io/)
+- [bazooka: Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
+- [istio: An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
+- [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
 
 ### Unsorted
-- https://github.com/davidmerrick/awesome-microservices
-- https://msdn.microsoft.com/en-us/library/ff650706.aspx
-- https://kb.epam.com/pages/viewpage.action?pageId=300828751
-- https://www.yammer.com/epam.com/#/Threads/show?threadId=899866942
-- https://info.epam.com/indepartment/AEI/department-news/webinars.html
 - `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
-- https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16
-- https://www.youtube.com/watch?v=Fuac__g928E
 - event sourcing
 - Event Bus
 - Balancer
 - Monitoring
 - Service discovery
-- https://github.com/gliderlabs/registrator
-- http://events.techdays.ru/
