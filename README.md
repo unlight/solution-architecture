@@ -127,6 +127,7 @@
 - [[learnvisualstudio.net] Application Architecture Fundamentals [2013, ENG]](https://www.google.com/search?q="[learnvisualstudio.net]+Application+Architecture+Fundamentals+[2013,+ENG]")
 - [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.com/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]")
 - [[Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Matthew+Renze]+Clean+Architecture:+Patterns,+Practices,+and+Principles+[2017,+ENG]")
+- [IASA's Five Pillars of IT Architecture](https://www.youtube.com/watch?v=DV09cysHu7k)
 
 ### Online Courses
 - [Software Architecture from University of Alberta](https://www.class-central.com/mooc/9217/coursera-software-architecture)
