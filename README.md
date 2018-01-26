@@ -4,6 +4,7 @@
 - [Software Architecture - Getting Started - Glossary](http://www.sei.cmu.edu/architecture/start/glossary/)
 - [Introduction to Software Architecture](http://www.cse.chalmers.se/edu/year/2016/course/course/EDA222_Real_Time_Systems/Documents/Slides/Software_Architecture_IH.pdf)
 - [Awesome Project Questions](https://github.com/kucherenko/awesome-project-questions)
+- [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 
 ### Architectural Patterns
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
@@ -42,6 +43,7 @@
 - [Risingstack: we help companies succeed with Node.js](https://blog.risingstack.com/)
 - [Medium @ Software Architecture](https://medium.com/tag/software-architecture)
 - [Medium @ Microservices](https://medium.com/tag/microservices)
+- [8L @ Architecture](https://8thlight.com/blog/tags/architecture.html)
 
 ### Books
 - **General Architectural Theory and Practice**
