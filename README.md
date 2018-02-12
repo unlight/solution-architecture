@@ -142,6 +142,7 @@
 - [Self Education In Solution Architecture](https://kb.epam.com/display/CTOOCC/Self-education+in+Solution+Architecture)
 - [Webinars](https://info.epam.com/indepartment/AEI/department-news/webinars.html)
 - [EPAM Yammer: Solution Architecture Group](https://www.yammer.com/epam.com/#/threads/inGroup?type=in_group&feedId=4269528)
+- [Solution Architect: A Complete Guide](https://info.epam.com/en/news/career/2018/sa-guide.html)
 - [EPAM Architecture Excellence Initiative](https://videoportal.epam.com/channel/kynoP8AoXg/videos)
   - [Solution Architecture Introduction](https://videoportal.epam.com/video/KR7Aq0a4)
   - [Business Architecture](https://videoportal.epam.com/video/qokpNbRA)
