@@ -31,6 +31,8 @@
 - [Observable Microservices](https://www.thoughtworks.com/talks/observable-microservices-xconf-eu-2017)
 - [A practical concept of Microservices Architecture](https://medium.com/microservices-in-practice/microservices-in-practice-7a3e85b6624c)
 - [Microservice Architecture: All The Best Practices You Need To Know](http://codingsans.com/blog/microservice-architecture-best-practices)
+- [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+- [The 10 Puzzle Pieces of an Effective Microservice Architecture](https://hackernoon.com/what-makes-a-microservice-architecture-14c05ad24554)
 
 ### Articles
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
@@ -173,6 +175,7 @@
 - [The monolithic frontend in the microservices architecture ](http://blog.xebia.com/the-monolithic-frontend-in-the-microservices-architecture/)
 - [Managing Frontend in the Microservices Architecture (Monolithic vs. Frankenstein approach)](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
 - [Including Front-End Web Components Into Microservices ](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
+- [Wilson Mendes: Micro Frontend - A Microservice Architecture From ... - JSConf.Asia 2018](https://www.youtube.com/watch?v=Kphwg2IsJfA)
 
 ### CSS
 - [Five Methodologies for Architecting CSS](https://dzone.com/articles/five-methodologies-for-architecting-css)
