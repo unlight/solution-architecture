@@ -207,6 +207,7 @@
 - [bazooka: Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
 - [istio: An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
 - [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
+- (A starting point for Clean Architecture with ASP.NET Core)[https://github.com/ardalis/CleanArchitecture]
 
 ### Unsorted
 - `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
