@@ -186,15 +186,6 @@
 - [Architecture for a Sass Project](http://www.sitepoint.com/?p=77453)
 - [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
 
-### Other
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
-- [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
-- [Techniques](https://www.thoughtworks.com/radar/techniques)
-- [Work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
-- [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
-- [A guide to RESTful API design: 35+ must-reads](https://techbeacon.com/guide-restful-api-design-35-must-reads)
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-
 ### Tools
 - [Job queues, message queues and other queues. Almost all of them in one place](http://queues.io/)
 - [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
@@ -207,7 +198,19 @@
 - [bazooka: Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
 - [istio: An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
 - [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
+
+### .NET Starters
 - (A starting point for Clean Architecture with ASP.NET Core)[https://github.com/ardalis/CleanArchitecture]
+- (Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers)[https://github.com/dotnet-architecture/eShopOnContainers]
+
+### Other
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
+- [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
+- [Techniques](https://www.thoughtworks.com/radar/techniques)
+- [Work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
+- [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
+- [A guide to RESTful API design: 35+ must-reads](https://techbeacon.com/guide-restful-api-design-35-must-reads)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Unsorted
 - `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
