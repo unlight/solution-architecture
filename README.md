@@ -203,6 +203,9 @@
 - (A starting point for Clean Architecture with ASP.NET Core)[https://github.com/ardalis/CleanArchitecture]
 - (Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers)[https://github.com/dotnet-architecture/eShopOnContainers]
 
+### Node.js Starters
+- (DDD/Clean Architecture inspired boilerplate for Node web APIs)[https://github.com/talyssonoc/node-api-boilerplate]
+
 ### Other
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
 - [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
