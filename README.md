@@ -198,6 +198,7 @@
 - [bazooka: Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
 - [istio: An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
 - [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
+- [The fastest, most reliable, Redis-based queue for Node](https://github.com/OptimalBits/bull)
 
 ### .NET Starters
 - (A starting point for Clean Architecture with ASP.NET Core)[https://github.com/ardalis/CleanArchitecture]
