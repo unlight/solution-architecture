@@ -7,13 +7,15 @@
 - [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 
 ### Architectural Patterns
+- [The (mostly incomplete) guide to architecture patterns](https://patterns.arc42.org/home/)
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
 - [Patterns for designing flexible architecture in node.js (CQRS/ES/Onion)](https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17)
-- **CQRS**
-  - [Pattern: Command Query Responsibility Segregation (CQRS)](http://microservices.io/patterns/data/cqrs.html)
-  - [Command and Query Responsibility Segregation (CQRS) in practice (RU)](http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
-  - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- [Various design patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+- [Pattern: Command Query Responsibility Segregation (CQRS)](http://microservices.io/patterns/data/cqrs.html)
+- [Command and Query Responsibility Segregation (CQRS) in practice (RU)](http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
+- [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
 
 ### Microservices
 - [Microservices](http://microservices.io/index.html)
@@ -156,6 +158,7 @@
   - [Architecture Documentation (Part 3/3)](https://videoportal.epam.com/video/8JOA9yoG)
 
 ### Documents
+- [All you ever need to construct, communicate and document your software architecture](https://arc42.org/)
 - [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
 - [Structured Approach to Solution Architecture](https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture)
 - [Sample Views](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
@@ -187,6 +190,8 @@
 - [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
 
 ### Tools
+- [All the best open source and Software as a Service (SaaS) tools in one place](https://stackshare.io/categories)
+- [Periodic table of devops tools](https://xebialabs.com/periodic-table-of-devops-tools/)
 - [Job queues, message queues and other queues. Almost all of them in one place](http://queues.io/)
 - [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
 - [strider: Open Source Continuous Integration & Deployment Server](https://github.com/Strider-CD/strider)
