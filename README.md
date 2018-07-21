@@ -16,6 +16,7 @@
 - [Pattern: Command Query Responsibility Segregation (CQRS)](http://microservices.io/patterns/data/cqrs.html)
 - [Command and Query Responsibility Segregation (CQRS) in practice (RU)](http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- [Sam Newman - Patterns](https://samnewman.io/patterns/)
 
 ### Microservices
 - [Microservices](http://microservices.io/index.html)
