@@ -210,6 +210,7 @@
 ### .NET Starters
 - [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
 - [Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers](https://github.com/dotnet-architecture/eShopOnContainers)
+- [This project contains a 10-tier microservices application](https://github.com/GoogleCloudPlatform/microservices-demo)
 
 ### Node.js Starters
 - [DDD/Clean Architecture inspired boilerplate for Node web APIs](https://github.com/talyssonoc/node-api-boilerplate)
