@@ -50,6 +50,109 @@
 - [Medium @ Microservices](https://medium.com/tag/microservices)
 - [8L @ Architecture](https://8thlight.com/blog/tags/architecture.html)
 
+### Video
+- [O'Reilly Software Architecture Conference 2016: Integration Architecture](https://www.google.com/search?q="O'Reilly+Software+Architecture+Conference+2016:+Integration+Architecture")
+- [[Pluralsight] Become a Full-stack .NET Developer - Architecture and Testing [2016, ENG]](https://www.google.com/search?q="[Pluralsight]+Become+a+Full-stack+.NET+Developer+-+Architecture+and+Testing+[2016,+ENG]")
+- [[Pluralsight.com / Allen Holub] Picturing Architecture: UML (The Good Bits) and More [2016, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Allen+Holub]+Picturing+Architecture:+UML+(The+Good+Bits)+and+More+[2016,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Service-Based Architectures [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Service-Based+Architectures+[2015,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Soft Skills [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Soft+Skills+[2015,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals People Skills [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+People+Skills+[2015,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Part I [2014, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Part+I+[2014,+ENG]")
+- [[O'Reilly Media] Software Architecture Fundamentals Beyond the Basics [2014, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Beyond+the+Basics+[2014,+ENG]")
+- [[learnvisualstudio.net] Application Architecture Fundamentals [2013, ENG]](https://www.google.com/search?q="[learnvisualstudio.net]+Application+Architecture+Fundamentals+[2013,+ENG]")
+- [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.com/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]")
+- [[Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Matthew+Renze]+Clean+Architecture:+Patterns,+Practices,+and+Principles+[2017,+ENG]")
+- [IASA's Five Pillars of IT Architecture](https://www.youtube.com/watch?v=DV09cysHu7k)
+
+### Online Courses
+- [Software Architecture from University of Alberta](https://www.class-central.com/mooc/9217/coursera-software-architecture)
+- [Service-Oriented Architecture from University of Alberta](https://www.class-central.com/mooc/9219/coursera-service-oriented-architecture)
+
+### Documents
+- [All you ever need to construct, communicate and document your software architecture](https://arc42.org/)
+- [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
+- [Structured Approach to Solution Architecture](https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture)
+- [Sample Views](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
+- [Example of a Software Architecture Document created as a companion to "Documenting Software Architectures: Views and Beyond"](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
+- [Documenting Software Architectures](https://www.slideshare.net/pagsousa/documenting-software-architectures)
+- [Architecture Document Template](https://www.slideshare.net/pmdelpech/gad-global-architecture-document-template-pm-delpech)
+
+### Micro Frontends
+- [Micro Frontends](https://github.com/neuland/micro-frontends)
+- [Introduction to Micro Frontends](https://www.tikalk.com/js/introduction-to-micro-frontends/)
+- [The javascript metaframework](https://github.com/CanopyTax/single-spa)
+- [A microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
+- [ThoughtWorks Technology Radar: Micro frontends](https://www.thoughtworks.com/radar/techniques/micro-frontends)
+- [Modernizing Upwork with Micro Frontends](https://www.upwork.com/blog/2017/05/modernizing-upwork-micro-frontends/)
+- [Presentation: Micro Frontends: Building a modern webapp with multiple teams ](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
+- [Microservice Grid and Micro Frontends](https://dejanglozic.com/2017/02/22/microservice-grid-and-micro-frontends/)
+- [The monolithic frontend in the microservices architecture ](http://blog.xebia.com/the-monolithic-frontend-in-the-microservices-architecture/)
+- [Managing Frontend in the Microservices Architecture (Monolithic vs. Frankenstein approach)](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
+- [Including Front-End Web Components Into Microservices ](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
+- [Wilson Mendes: Micro Frontend - A Microservice Architecture From ... - JSConf.Asia 2018](https://www.youtube.com/watch?v=Kphwg2IsJfA)
+
+### Tools
+- [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
+- [All the best open source and Software as a Service (SaaS) tools in one place](https://stackshare.io/categories)
+- [Periodic table of devops tools](https://xebialabs.com/periodic-table-of-devops-tools/)
+- [Job queues, message queues and other queues. Almost all of them in one place](http://queues.io/)
+- [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
+- [strider: Open Source Continuous Integration & Deployment Server](https://github.com/Strider-CD/strider)
+- [cabot: Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty](https://github.com/arachnys/cabot)
+- [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch)
+- [Solr](https://en.wikipedia.org/wiki/Apache_Solr)
+- [Consule: Service Discovery and Configuration Made Easy](https://github.com/hashicorp/consul)
+- [pm2: Production Process Manager for Node.js apps with a built-in Load Balancer](https://github.com/Unitech/pm2)
+- [bazooka: Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
+- [istio: An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
+- [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
+- [The fastest, most reliable, Redis-based queue for Node](https://github.com/OptimalBits/bull)
+
+### .NET Starters
+- [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
+- [Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers](https://github.com/dotnet-architecture/eShopOnContainers)
+- [This project contains a 10-tier microservices application](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [A containerized polyglot microservices consisting of services based on .NET Core, NodeJS and more running on service mesh (istio)](https://github.com/vietnam-devs/coolstore-microservices)
+
+### Node.js Starters
+- [DDD/Clean Architecture inspired boilerplate for Node web APIs](https://github.com/talyssonoc/node-api-boilerplate)
+
+### Other
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
+- [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
+- [Techniques](https://www.thoughtworks.com/radar/techniques)
+- [Work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
+- [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
+- [A guide to RESTful API design: 35+ must-reads](https://techbeacon.com/guide-restful-api-design-35-must-reads)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+### CSS
+- [Five Methodologies for Architecting CSS](https://dzone.com/articles/five-methodologies-for-architecting-css)
+- [CSS Architecture: First steps](https://www.ckl.io/blog/css-architecture-first-steps/)
+- [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md)
+- [Kushagra Gour: 10 Commandments for Efficient CSS Architecture - CSSConf.Asia 2014](https://www.youtube.com/watch?v=FYcu-wWrNqo)
+- Jonathan Snook - Scalable and Modular Architecture for CSS [2012, PDF, ENG]
+- [Architecture for a Sass Project](http://www.sitepoint.com/?p=77453)
+- [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
+
+### EPAM Solution Architecture
+- [Solution Architecture](https://kb.epam.com/display/CTOOCC/Solution+Architecture)
+- [Who Is Solution Architect](https://kb.epam.com/display/CTOOCC/Who+is+Solution+Architect)
+- [Best Practices In Solution Architecture](https://kb.epam.com/display/CTOOCC/Best+practices+in+Solution+Architecture)
+- [Self Education In Solution Architecture](https://kb.epam.com/display/CTOOCC/Self-education+in+Solution+Architecture)
+- [Webinars](https://info.epam.com/indepartment/AEI/department-news/webinars.html)
+- [EPAM Yammer: Solution Architecture Group](https://www.yammer.com/epam.com/#/threads/inGroup?type=in_group&feedId=4269528)
+- [Solution Architect: A Complete Guide](https://info.epam.com/en/news/career/2018/sa-guide.html)
+- [EPAM Architecture Excellence Initiative](https://videoportal.epam.com/channel/kynoP8AoXg/videos)
+  - [Solution Architecture Introduction](https://videoportal.epam.com/video/KR7Aq0a4)
+  - [Business Architecture](https://videoportal.epam.com/video/qokpNbRA)
+  - [Quality Attributes, ASR (Part 1/2)](https://videoportal.epam.com/video/xazQAyJG)
+  - [Solution Architecture School Quality Attributes, ASR Part 2/2](https://videoportal.epam.com/video/PoAE6ro8)
+  - [Architecture Modeling](https://videoportal.epam.com/video/6Rn1d4or)
+  - [Architecture Documentation (Part 1/3)](https://videoportal.epam.com/video/9oXkzGaw)
+  - [Architecture Documentation (Part 2/3)](https://videoportal.epam.com/video/qayVEMol)
+  - [Architecture Documentation (Part 3/3)](https://videoportal.epam.com/video/8JOA9yoG)
+
 ### Books
 - **General Architectural Theory and Practice**
   - [.NET Microservices – Architecture for Containerized .NET Applications](http://aka.ms/MicroservicesEbook)
@@ -121,108 +224,6 @@
   - [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 - **Other**
   - [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices-aw)
-
-### Video
-- [O'Reilly Software Architecture Conference 2016: Integration Architecture](https://www.google.com/search?q="O'Reilly+Software+Architecture+Conference+2016:+Integration+Architecture")
-- [[Pluralsight] Become a Full-stack .NET Developer - Architecture and Testing [2016, ENG]](https://www.google.com/search?q="[Pluralsight]+Become+a+Full-stack+.NET+Developer+-+Architecture+and+Testing+[2016,+ENG]")
-- [[Pluralsight.com / Allen Holub] Picturing Architecture: UML (The Good Bits) and More [2016, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Allen+Holub]+Picturing+Architecture:+UML+(The+Good+Bits)+and+More+[2016,+ENG]")
-- [[O'Reilly Media] Software Architecture Fundamentals Service-Based Architectures [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Service-Based+Architectures+[2015,+ENG]")
-- [[O'Reilly Media] Software Architecture Fundamentals Soft Skills [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Soft+Skills+[2015,+ENG]")
-- [[O'Reilly Media] Software Architecture Fundamentals People Skills [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+People+Skills+[2015,+ENG]")
-- [[O'Reilly Media] Software Architecture Fundamentals Part I [2014, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Part+I+[2014,+ENG]")
-- [[O'Reilly Media] Software Architecture Fundamentals Beyond the Basics [2014, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Beyond+the+Basics+[2014,+ENG]")
-- [[learnvisualstudio.net] Application Architecture Fundamentals [2013, ENG]](https://www.google.com/search?q="[learnvisualstudio.net]+Application+Architecture+Fundamentals+[2013,+ENG]")
-- [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.com/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]")
-- [[Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Matthew+Renze]+Clean+Architecture:+Patterns,+Practices,+and+Principles+[2017,+ENG]")
-- [IASA's Five Pillars of IT Architecture](https://www.youtube.com/watch?v=DV09cysHu7k)
-
-### Online Courses
-- [Software Architecture from University of Alberta](https://www.class-central.com/mooc/9217/coursera-software-architecture)
-- [Service-Oriented Architecture from University of Alberta](https://www.class-central.com/mooc/9219/coursera-service-oriented-architecture)
-
-### EPAM Solution Architecture
-- [Solution Architecture](https://kb.epam.com/display/CTOOCC/Solution+Architecture)
-- [Who Is Solution Architect](https://kb.epam.com/display/CTOOCC/Who+is+Solution+Architect)
-- [Best Practices In Solution Architecture](https://kb.epam.com/display/CTOOCC/Best+practices+in+Solution+Architecture)
-- [Self Education In Solution Architecture](https://kb.epam.com/display/CTOOCC/Self-education+in+Solution+Architecture)
-- [Webinars](https://info.epam.com/indepartment/AEI/department-news/webinars.html)
-- [EPAM Yammer: Solution Architecture Group](https://www.yammer.com/epam.com/#/threads/inGroup?type=in_group&feedId=4269528)
-- [Solution Architect: A Complete Guide](https://info.epam.com/en/news/career/2018/sa-guide.html)
-- [EPAM Architecture Excellence Initiative](https://videoportal.epam.com/channel/kynoP8AoXg/videos)
-  - [Solution Architecture Introduction](https://videoportal.epam.com/video/KR7Aq0a4)
-  - [Business Architecture](https://videoportal.epam.com/video/qokpNbRA)
-  - [Quality Attributes, ASR (Part 1/2)](https://videoportal.epam.com/video/xazQAyJG)
-  - [Solution Architecture School Quality Attributes, ASR Part 2/2](https://videoportal.epam.com/video/PoAE6ro8)
-  - [Architecture Modeling](https://videoportal.epam.com/video/6Rn1d4or)
-  - [Architecture Documentation (Part 1/3)](https://videoportal.epam.com/video/9oXkzGaw)
-  - [Architecture Documentation (Part 2/3)](https://videoportal.epam.com/video/qayVEMol)
-  - [Architecture Documentation (Part 3/3)](https://videoportal.epam.com/video/8JOA9yoG)
-
-### Documents
-- [All you ever need to construct, communicate and document your software architecture](https://arc42.org/)
-- [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
-- [Structured Approach to Solution Architecture](https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture)
-- [Sample Views](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
-- [Example of a Software Architecture Document created as a companion to "Documenting Software Architectures: Views and Beyond"](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
-- [Documenting Software Architectures](https://www.slideshare.net/pagsousa/documenting-software-architectures)
-- [Architecture Document Template](https://www.slideshare.net/pmdelpech/gad-global-architecture-document-template-pm-delpech)
-
-### Micro Frontends
-- [Micro Frontends](https://github.com/neuland/micro-frontends)
-- [Introduction to Micro Frontends](https://www.tikalk.com/js/introduction-to-micro-frontends/)
-- [The javascript metaframework](https://github.com/CanopyTax/single-spa)
-- [A microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
-- [ThoughtWorks Technology Radar: Micro frontends](https://www.thoughtworks.com/radar/techniques/micro-frontends)
-- [Modernizing Upwork with Micro Frontends](https://www.upwork.com/blog/2017/05/modernizing-upwork-micro-frontends/)
-- [Presentation: Micro Frontends: Building a modern webapp with multiple teams ](https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams)
-- [Microservice Grid and Micro Frontends](https://dejanglozic.com/2017/02/22/microservice-grid-and-micro-frontends/)
-- [The monolithic frontend in the microservices architecture ](http://blog.xebia.com/the-monolithic-frontend-in-the-microservices-architecture/)
-- [Managing Frontend in the Microservices Architecture (Monolithic vs. Frankenstein approach)](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
-- [Including Front-End Web Components Into Microservices ](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
-- [Wilson Mendes: Micro Frontend - A Microservice Architecture From ... - JSConf.Asia 2018](https://www.youtube.com/watch?v=Kphwg2IsJfA)
-
-### CSS
-- [Five Methodologies for Architecting CSS](https://dzone.com/articles/five-methodologies-for-architecting-css)
-- [CSS Architecture: First steps](https://www.ckl.io/blog/css-architecture-first-steps/)
-- [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md)
-- [Kushagra Gour: 10 Commandments for Efficient CSS Architecture - CSSConf.Asia 2014](https://www.youtube.com/watch?v=FYcu-wWrNqo)
-- Jonathan Snook - Scalable and Modular Architecture for CSS [2012, PDF, ENG]
-- [Architecture for a Sass Project](http://www.sitepoint.com/?p=77453)
-- [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
-
-### Tools
-- [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
-- [All the best open source and Software as a Service (SaaS) tools in one place](https://stackshare.io/categories)
-- [Periodic table of devops tools](https://xebialabs.com/periodic-table-of-devops-tools/)
-- [Job queues, message queues and other queues. Almost all of them in one place](http://queues.io/)
-- [fabio: A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul](https://github.com/fabiolb/fabio)
-- [strider: Open Source Continuous Integration & Deployment Server](https://github.com/Strider-CD/strider)
-- [cabot: Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty](https://github.com/arachnys/cabot)
-- [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch)
-- [Solr](https://en.wikipedia.org/wiki/Apache_Solr)
-- [Consule: Service Discovery and Configuration Made Easy](https://github.com/hashicorp/consul)
-- [pm2: Production Process Manager for Node.js apps with a built-in Load Balancer](https://github.com/Unitech/pm2)
-- [bazooka: Continuous Integration and Continuous Deployment Server](https://github.com/bazooka-ci/bazooka)
-- [istio: An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
-- [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
-- [The fastest, most reliable, Redis-based queue for Node](https://github.com/OptimalBits/bull)
-
-### .NET Starters
-- [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
-- [Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers](https://github.com/dotnet-architecture/eShopOnContainers)
-- [This project contains a 10-tier microservices application](https://github.com/GoogleCloudPlatform/microservices-demo)
-
-### Node.js Starters
-- [DDD/Clean Architecture inspired boilerplate for Node web APIs](https://github.com/talyssonoc/node-api-boilerplate)
-
-### Other
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
-- [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
-- [Techniques](https://www.thoughtworks.com/radar/techniques)
-- [Work-breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure)
-- [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
-- [A guide to RESTful API design: 35+ must-reads](https://techbeacon.com/guide-restful-api-design-35-must-reads)
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Unsorted
 - `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
