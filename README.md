@@ -36,6 +36,7 @@
 - [Microservice Architecture: All The Best Practices You Need To Know](http://codingsans.com/blog/microservice-architecture-best-practices)
 - [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 - [The 10 Puzzle Pieces of an Effective Microservice Architecture](https://hackernoon.com/what-makes-a-microservice-architecture-14c05ad24554)
+- [Free Ebook: Microservice Architecture from O'Reilly](https://www.ca.com/content/dam/ca/us/files/ebook/microservice-architecture-aligning-principles-practices-and-culture.pdf)
 
 ### Articles
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
