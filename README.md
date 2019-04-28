@@ -117,6 +117,7 @@
 
 ### Node.js Starters
 - [DDD/Clean Architecture inspired boilerplate for Node web APIs](https://github.com/talyssonoc/node-api-boilerplate)
+- [Implementation of a bulletproof node.js API](https://github.com/santiq/bulletproof-nodejs)
 
 ### Other
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
