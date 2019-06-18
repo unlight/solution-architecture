@@ -91,6 +91,7 @@
 - [Managing Frontend in the Microservices Architecture (Monolithic vs. Frankenstein approach)](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html)
 - [Including Front-End Web Components Into Microservices ](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
 - [Wilson Mendes: Micro Frontend - A Microservice Architecture From ... - JSConf.Asia 2018](https://www.youtube.com/watch?v=Kphwg2IsJfA)
+- [Micro Frontends @ martinfowler.com](https://martinfowler.com/articles/micro-frontends.html)
 
 ### Tools
 - [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
