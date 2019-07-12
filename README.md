@@ -131,6 +131,8 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### CSS
+- [CSS Architecture — Folders & Files Structure](https://medium.com/@elad/css-architecture-folders-files-structure-f92b40c78d0b)
+- [CSS Architecture for Multiple Websites](https://medium.com/@elad/css-architecture-for-multiple-websites-ad696c9d334)
 - [Five Methodologies for Architecting CSS](https://dzone.com/articles/five-methodologies-for-architecting-css)
 - [CSS Architecture: First steps](https://www.ckl.io/blog/css-architecture-first-steps/)
 - [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md)
