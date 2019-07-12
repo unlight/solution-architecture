@@ -79,7 +79,7 @@
 - [Documenting Software Architectures](https://www.slideshare.net/pagsousa/documenting-software-architectures)
 - [Architecture Document Template](https://www.slideshare.net/pmdelpech/gad-global-architecture-document-template-pm-delpech)
 
-### Micro Frontends
+### Microfrontends
 - [Micro Frontends](https://github.com/neuland/micro-frontends)
 - [Introduction to Micro Frontends](https://www.tikalk.com/js/introduction-to-micro-frontends/)
 - [The javascript metaframework](https://github.com/CanopyTax/single-spa)
@@ -93,6 +93,7 @@
 - [Including Front-End Web Components Into Microservices ](https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/)
 - [Wilson Mendes: Micro Frontend - A Microservice Architecture From ... - JSConf.Asia 2018](https://www.youtube.com/watch?v=Kphwg2IsJfA)
 - [Micro Frontends @ martinfowler.com](https://martinfowler.com/articles/micro-frontends.html)
+- [awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends)
 
 ### Tools
 - [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
