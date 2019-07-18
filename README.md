@@ -25,7 +25,6 @@
 - [A pattern language for microservices](http://microservices.io/patterns/index.html)
 - [A curated list of Microservice Architecture related principles and technologies](https://github.com/mfornos/awesome-microservices)
 - [A curated list of Microservice resources](https://github.com/wanghaisheng/awesome-microservice)
-- [Awesome Microservices Architectures](https://github.com/olalonde/awesome-microservice-archs)
 - [Links related to the microservice architecture](https://github.com/istinspring/awesome-microservices)
 - [A list of resources for building and testing microservice architectures](https://github.com/davidmerrick/awesome-microservices)
 - [Examples of real world software built with a microservice architecture](https://github.com/olalonde/awesome-microservice-archs)
@@ -94,6 +93,7 @@
 - [Wilson Mendes: Micro Frontend - A Microservice Architecture From ... - JSConf.Asia 2018](https://www.youtube.com/watch?v=Kphwg2IsJfA)
 - [Micro Frontends @ martinfowler.com](https://martinfowler.com/articles/micro-frontends.html)
 - [awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends)
+- [Microfrontends — Bringing JavaScript frameworks together](https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b)
 
 ### Tools
 - [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
