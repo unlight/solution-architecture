@@ -229,8 +229,10 @@
   - [Class 7: Work Breakdown Structure (WBS)](http://emanueledellavalle.org/slides/P&MSP2012_07_WBS.pdf)
   - [Class 14: Risk Management](http://emanueledellavalle.org/slides/P&MSP2014_14a_Risk-Management.pdf)
   - [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+  - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 - **Other**
   - [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices-aw)
+  
 
 ### Unsorted
 - `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
