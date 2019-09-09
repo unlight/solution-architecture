@@ -1,4 +1,5 @@
 ### Solution Architecture
+
 - [Solution Architecture](https://en.wikipedia.org/wiki/Solution_architecture)
 - [Software Architecture Discipline Overview](http://www.softwarearchitectures.com/overview.html)
 - [Software Architecture - Getting Started - Glossary](http://www.sei.cmu.edu/architecture/start/glossary/)
@@ -7,6 +8,7 @@
 - [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 
 ### Architectural Patterns
+
 - [The (mostly incomplete) guide to architecture patterns](https://patterns.arc42.org/home/)
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
@@ -19,6 +21,7 @@
 - [Sam Newman - Patterns](https://samnewman.io/patterns/)
 
 ### Microservices
+
 - [Microservices](http://microservices.io/index.html)
 - [How To Cook Microservices (with Ruby spices)](http://howtocookmicroservices.com/)
 - [Microservices and Rules Engines – a blast from the past](https://www.youtube.com/watch?v=Fuac__g928E)
@@ -38,6 +41,7 @@
 - [Free Ebook: Microservice Architecture from O'Reilly](https://www.ca.com/content/dam/ca/us/files/ebook/microservice-architecture-aligning-principles-practices-and-culture.pdf)
 
 ### Articles
+
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
 - [Application Architecture and Ransomware](https://dzone.com/articles/application-architecture-and-ransomware)
 - [Monitoring Microservices Architectures: Enterprise Best Practices](https://blog.risingstack.com/monitoring-microservices-architectures/)
@@ -45,6 +49,7 @@
 - [Clean Frontend Architecture](http://translate.google.com/translate?hl=&sl=auto&tl=en&u=https://github.com/phodal/clean-frontend)
 
 ### Blogs
+
 - [Coding the Architecture](http://www.codingthearchitecture.com/)
 - [Risingstack: we help companies succeed with Node.js](https://blog.risingstack.com/)
 - [Medium @ Software Architecture](https://medium.com/tag/software-architecture)
@@ -52,9 +57,10 @@
 - [8L @ Architecture](https://8thlight.com/blog/tags/architecture.html)
 
 ### Video
+
 - [O'Reilly Software Architecture Conference 2016: Integration Architecture](https://www.google.com/search?q="O'Reilly+Software+Architecture+Conference+2016:+Integration+Architecture")
 - [[Pluralsight] Become a Full-stack .NET Developer - Architecture and Testing [2016, ENG]](https://www.google.com/search?q="[Pluralsight]+Become+a+Full-stack+.NET+Developer+-+Architecture+and+Testing+[2016,+ENG]")
-- [[Pluralsight.com / Allen Holub] Picturing Architecture: UML (The Good Bits) and More [2016, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Allen+Holub]+Picturing+Architecture:+UML+(The+Good+Bits)+and+More+[2016,+ENG]")
+- [[Pluralsight.com / Allen Holub] Picturing Architecture: UML (The Good Bits) and More [2016, ENG]](<https://www.google.com/search?q="[Pluralsight.com+/+Allen+Holub]+Picturing+Architecture:+UML+(The+Good+Bits)+and+More+[2016,+ENG]">)
 - [[O'Reilly Media] Software Architecture Fundamentals Service-Based Architectures [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Service-Based+Architectures+[2015,+ENG]")
 - [[O'Reilly Media] Software Architecture Fundamentals Soft Skills [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Soft+Skills+[2015,+ENG]")
 - [[O'Reilly Media] Software Architecture Fundamentals People Skills [2015, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+People+Skills+[2015,+ENG]")
@@ -66,10 +72,12 @@
 - [IASA's Five Pillars of IT Architecture](https://www.youtube.com/watch?v=DV09cysHu7k)
 
 ### Online Courses
+
 - [Software Architecture from University of Alberta](https://www.class-central.com/mooc/9217/coursera-software-architecture)
 - [Service-Oriented Architecture from University of Alberta](https://www.class-central.com/mooc/9219/coursera-service-oriented-architecture)
 
 ### Documents
+
 - [All you ever need to construct, communicate and document your software architecture](https://arc42.org/)
 - [Solution Architecture Document](https://www.slideshare.net/Zubin67/solution-architecture-document-word-formatdoc)
 - [Structured Approach to Solution Architecture](https://www.slideshare.net/alanmcsweeney/structured-approach-to-solution-architecture)
@@ -79,6 +87,7 @@
 - [Architecture Document Template](https://www.slideshare.net/pmdelpech/gad-global-architecture-document-template-pm-delpech)
 
 ### Microfrontends
+
 - [Micro Frontends](https://github.com/neuland/micro-frontends)
 - [Introduction to Micro Frontends](https://www.tikalk.com/js/introduction-to-micro-frontends/)
 - [The javascript metaframework](https://github.com/CanopyTax/single-spa)
@@ -96,6 +105,7 @@
 - [Microfrontends — Bringing JavaScript frameworks together](https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b)
 
 ### Tools
+
 - [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
 - [All the best open source and Software as a Service (SaaS) tools in one place](https://stackshare.io/categories)
 - [Periodic table of devops tools](https://xebialabs.com/periodic-table-of-devops-tools/)
@@ -113,16 +123,20 @@
 - [The fastest, most reliable, Redis-based queue for Node](https://github.com/OptimalBits/bull)
 
 ### .NET Starters
+
 - [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
 - [Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers](https://github.com/dotnet-architecture/eShopOnContainers)
 - [This project contains a 10-tier microservices application](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [A containerized polyglot microservices consisting of services based on .NET Core, NodeJS and more running on service mesh (istio)](https://github.com/vietnam-devs/coolstore-microservices)
+- [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
 
 ### Node.js Starters
+
 - [DDD/Clean Architecture inspired boilerplate for Node web APIs](https://github.com/talyssonoc/node-api-boilerplate)
 - [Implementation of a bulletproof node.js API](https://github.com/santiq/bulletproof-nodejs)
 
 ### Other
+
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
 - [Study Notes for AWS Certified Solutions Architect Associate - 2017](https://github.com/agasthik/aws-csa-2017)
 - [Techniques](https://www.thoughtworks.com/radar/techniques)
@@ -132,6 +146,7 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### CSS
+
 - [CSS Architecture — Folders & Files Structure](https://medium.com/@elad/css-architecture-folders-files-structure-f92b40c78d0b)
 - [CSS Architecture for Multiple Websites](https://medium.com/@elad/css-architecture-for-multiple-websites-ad696c9d334)
 - [Five Methodologies for Architecting CSS](https://dzone.com/articles/five-methodologies-for-architecting-css)
@@ -143,6 +158,7 @@
 - [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
 
 ### EPAM Solution Architecture
+
 - [Solution Architecture](https://kb.epam.com/display/CTOOCC/Solution+Architecture)
 - [Who Is Solution Architect](https://kb.epam.com/display/CTOOCC/Who+is+Solution+Architect)
 - [Best Practices In Solution Architecture](https://kb.epam.com/display/CTOOCC/Best+practices+in+Solution+Architecture)
@@ -161,6 +177,7 @@
   - [Architecture Documentation (Part 3/3)](https://videoportal.epam.com/video/8JOA9yoG)
 
 ### Books
+
 - **General Architectural Theory and Practice**
   - [.NET Microservices – Architecture for Containerized .NET Applications](http://aka.ms/MicroservicesEbook)
   - [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
@@ -235,6 +252,7 @@
   
 
 ### Unsorted
+
 - `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
 - event sourcing
 - Event Bus
