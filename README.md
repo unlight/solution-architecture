@@ -6,6 +6,7 @@
 - [Introduction to Software Architecture](http://www.cse.chalmers.se/edu/year/2016/course/course/EDA222_Real_Time_Systems/Documents/Slides/Software_Architecture_IH.pdf)
 - [Awesome Project Questions](https://github.com/kucherenko/awesome-project-questions)
 - [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
+- [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
 
 ### Architectural Patterns
 
