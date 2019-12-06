@@ -130,6 +130,7 @@
 - [This project contains a 10-tier microservices application](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [A containerized polyglot microservices consisting of services based on .NET Core, NodeJS and more running on service mesh (istio)](https://github.com/vietnam-devs/coolstore-microservices)
 - [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
+- [Clean Architecture Solution Template for Angular 8 and .NET Core 3](https://github.com/JasonGT/CleanArchitecture)
 
 ### Node.js Starters
 
