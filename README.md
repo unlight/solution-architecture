@@ -7,6 +7,7 @@
 - [Awesome Project Questions](https://github.com/kucherenko/awesome-project-questions)
 - [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
+- [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 
 ### Architectural Patterns
 
