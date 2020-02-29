@@ -49,6 +49,7 @@
 - [Monitoring Microservices Architectures: Enterprise Best Practices](https://blog.risingstack.com/monitoring-microservices-architectures/)
 - [Architectural Blueprints — The "4+1" View Model of Software Architecture](http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
 - [Clean Frontend Architecture](http://translate.google.com/translate?hl=&sl=auto&tl=en&u=https://github.com/phodal/clean-frontend)
+- [How I write backends](https://github.com/fpereiro/backendlore)
 
 ### Blogs
 
