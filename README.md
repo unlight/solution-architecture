@@ -41,6 +41,8 @@
 - [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 - [The 10 Puzzle Pieces of an Effective Microservice Architecture](https://hackernoon.com/what-makes-a-microservice-architecture-14c05ad24554)
 - [Free Ebook: Microservice Architecture from O'Reilly](https://www.ca.com/content/dam/ca/us/files/ebook/microservice-architecture-aligning-principles-practices-and-culture.pdf)
+- [Microservices Pattern: Decompose by business capability](https://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
+- [Pattern: Decompose by subdomain](https://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
 
 ### Articles
 
@@ -50,6 +52,9 @@
 - [Architectural Blueprints — The "4+1" View Model of Software Architecture](http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
 - [Clean Frontend Architecture](http://translate.google.com/translate?hl=&sl=auto&tl=en&u=https://github.com/phodal/clean-frontend)
 - [How I write backends](https://github.com/fpereiro/backendlore)
+- [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
+- [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
+- [bliki: AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
 
 ### Blogs
 
@@ -73,6 +78,7 @@
 - [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.com/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]")
 - [[Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Matthew+Renze]+Clean+Architecture:+Patterns,+Practices,+and+Principles+[2017,+ENG]")
 - [IASA's Five Pillars of IT Architecture](https://www.youtube.com/watch?v=DV09cysHu7k)
+- [[OTUS] Архитектор программного обеспечения (2020)](https://www.google.com/search?q="[OTUS]+Архитектор+программного+обеспечения+(2020)")
 
 ### Online Courses
 
