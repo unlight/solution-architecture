@@ -8,6 +8,7 @@
 - [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
 - [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+- [Skills map and roles & responsibilities of Solution Architects](https://github.com/NikAshanin/Solution-Architect-Road-Map)
 
 ### Architectural Patterns
 
