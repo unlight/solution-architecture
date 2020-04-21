@@ -3,7 +3,6 @@
 - [Solution Architecture](https://en.wikipedia.org/wiki/Solution_architecture)
 - [Software Architecture Discipline Overview](http://www.softwarearchitectures.com/overview.html)
 - [Software Architecture - Getting Started - Glossary](http://www.sei.cmu.edu/architecture/start/glossary/)
-- [Introduction to Software Architecture](http://www.cse.chalmers.se/edu/year/2016/course/course/EDA222_Real_Time_Systems/Documents/Slides/Software_Architecture_IH.pdf)
 - [Awesome Project Questions](https://github.com/kucherenko/awesome-project-questions)
 - [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
@@ -55,7 +54,6 @@
 - [How I write backends](https://github.com/fpereiro/backendlore)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
 - [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
-- [bliki: AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
 
 ### Blogs
 
@@ -85,6 +83,10 @@
 
 - [Software Architecture from University of Alberta](https://www.class-central.com/mooc/9217/coursera-software-architecture)
 - [Service-Oriented Architecture from University of Alberta](https://www.class-central.com/mooc/9219/coursera-service-oriented-architecture)
+
+### University Lectures
+
+- [Software Architecture Software Engineering - 2017 - Saarland University](https://www.st.cs.uni-saarland.de/edu/se/2017/files/slides/08-Software%20Architecture-Full.pdf)
 
 ### Documents
 
