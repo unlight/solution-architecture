@@ -54,6 +54,7 @@
 - [How I write backends](https://github.com/fpereiro/backendlore)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
 - [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
+- [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 
 ### Blogs
 
