@@ -8,6 +8,7 @@
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
 - [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - [Skills map and roles & responsibilities of Solution Architects](https://github.com/NikAshanin/Solution-Architect-Road-Map)
+- [Software Architecture in Practice](https://sites.google.com/site/softwarearchitectureinpractice)
 
 ### Architectural Patterns
 
