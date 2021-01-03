@@ -22,6 +22,7 @@
 - [Command and Query Responsibility Segregation (CQRS) in practice (RU)](http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html)
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [Sam Newman - Patterns](https://samnewman.io/patterns/)
+- [Solutions Architecture Patterns](https://github.com/chanakaudaya/solutions-architecture-patterns)
 
 ### Microservices
 
@@ -64,6 +65,8 @@
 - [Medium @ Software Architecture](https://medium.com/tag/software-architecture)
 - [Medium @ Microservices](https://medium.com/tag/microservices)
 - [8L @ Architecture](https://8thlight.com/blog/tags/architecture.html)
+- [Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/categories/software-design/)
+- [Jimmy Bogard](https://jimmybogard.com/)
 
 ### Video
 
@@ -265,13 +268,3 @@
   - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 - **Other**
   - [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices-aw)
-  
-
-### Unsorted
-
-- `\\EPBYMINSA0000.minsk.epam.com\Training Materials\EPAM Trainings\Architecture Excellence Initiative\`
-- event sourcing
-- Event Bus
-- Balancer
-- Monitoring
-- Service discovery
