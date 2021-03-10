@@ -4,6 +4,7 @@
 - [Software Architecture Discipline Overview](http://www.softwarearchitectures.com/overview.html)
 - [Software Architecture - Getting Started - Glossary](http://www.sei.cmu.edu/architecture/start/glossary/)
 - [Awesome Project Questions](https://github.com/kucherenko/awesome-project-questions)
+- [Ultimate New Software Project Decision Checklist](https://github.com/ardalis/new-software-project-checklist)
 - [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
 - [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
@@ -46,6 +47,10 @@
 - [Microservices Pattern: Decompose by business capability](https://microservices.io/patterns/decomposition/decompose-by-business-capability.html)
 - [Pattern: Decompose by subdomain](https://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
 
+### Newsletters 
+- [Domain Driven Design Weekly](http://dddweekly.com/)
+- [Microservices Weekly](https://microserviceweekly.com/)
+
 ### Articles
 
 - [Architectural Shift in Web Applications](https://dzone.com/articles/architectural-shift-in-web-applications-with-emerg)
@@ -58,7 +63,7 @@
 - [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
 - [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 
-### Blogs
+### Blogs/People
 
 - [Coding the Architecture](http://www.codingthearchitecture.com/)
 - [Risingstack: we help companies succeed with Node.js](https://blog.risingstack.com/)
@@ -67,6 +72,8 @@
 - [8L @ Architecture](https://8thlight.com/blog/tags/architecture.html)
 - [Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/categories/software-design/)
 - [Jimmy Bogard](https://jimmybogard.com/)
+- [Steve Smith](https://github.com/ardalis)
+- [Joel Parker Henderson](https://github.com/joelparkerhenderson)
 
 ### Video
 
@@ -163,6 +170,8 @@
 - [Quality Attribute Workshop (QAW)](http://www.sei.cmu.edu/architecture/tools/establish/qaw.cfm)
 - [A guide to RESTful API design: 35+ must-reads](https://techbeacon.com/guide-restful-api-design-35-must-reads)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Quality Attributes](https://github.com/joelparkerhenderson/system_quality_attributes)
+- [Architecture decision record (ADR) examples for software planning](https://github.com/joelparkerhenderson/architecture_decision_record)
 
 ### CSS
 
@@ -213,7 +222,7 @@
   - [Essential Software Architecture](https://www.amazon.com/Essential-Software-Architecture-Ian-Gorton/dp/3642066844)
   - [Software Engineering: A Practitioner's Approach (Irwin Computer Science)](https://www.amazon.com/Software-Engineering-A-Practitioners-Approach/dp/0078022126)
   - [97 Things Every Software Architect Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)
-  - [Evaluating Software Architectures: Methods and Case Studies ](https://www.amazon.com/Evaluating-Software-Architectures-Methods-Studies/dp/020170482X)
+  - [Evaluating Software Architectures: Methods and Case Studies](https://www.amazon.com/Evaluating-Software-Architectures-Methods-Studies/dp/020170482X)
   - [Reactive Design Patterns](https://www.amazon.com/Reactive-Design-Patterns-Roland-Kuhn/dp/1617291803)
   - [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)
   - [Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design](http://www.amazon.com/Beautiful-Architecture-Leading-Thinkers-Software/dp/059651798X)
@@ -251,20 +260,20 @@
   - [eCommerce in the Cloud: Bringing Elasticity to eCommerce](http://www.amazon.com/eCommerce-Cloud-Bringing-Elasticity/dp/1491946636)
   - [12 Essential Skill for Software Architect](https://www.amazon.com/12-Essential-Skills-Software-Architects/dp/0321717295)
   - [Seven Languages in Seven Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks)
-  - [Seven Databases in Seven Weeks ](http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
+  - [Seven Databases in Seven Weeks](http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
   - [Seven Concurrency Models in Seven Weeks](http://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
   - [Seven Web Frameworks in Seven Weeks](http://pragprog.com/book/7web/seven-web-frameworks-in-seven-weeks)
   - [TIBCO Architecture Fundamentals](https://www.amazon.com/TIBCO-Architecture-Fundamentals-Press/dp/032177261X)
 - **Development**
   - [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
-  - [Agile Estimating and Planning](http://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
+  - [Agile Estimating andPlanning](http://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
   - [Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development](http://www.amazon.com/Applying-UML-Patterns-Introduction-Obj%20ect-Oriented/dp/0131489062)
   - [Crystal Clear: A Human-Powered Methodology for Small Teams](http://www.amazon.com/Crystal-Clear-Human-Powered-Methodology-Smal%20l/dp/0201699478)
   - [Managing and Leading Software Projects](https://www.amazon.com/Managing-Leading-Software-Projects-Richard/dp/0470294558)
-  - [Object-Oriented Software Construction](http://www.amazon.com/Object-Oriented-Software-Construction%20-Book-CD-ROM/dp/0136291554)
-  - [Class 7: Work Breakdown Structure (WBS)](http://emanueledellavalle.org/slides/P&MSP2012_07_WBS.pdf)
-  - [Class 14: Risk Management](http://emanueledellavalle.org/slides/P&MSP2014_14a_Risk-Management.pdf)
-  - [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+  - [Object-Oriented Software Construction](http://www.amazon.com/Object-Oriented-Software-Construction%20-Book-CD-ROM/dp/0136291554)
+  - [Class 7: Work Breakdown Structure (WBS)](http://emanueledellavalle.org/slides/P&MSP2012_07_WBS.pdf)
+  - [Class 14: Risk Management](http://emanueledellavalle.org/slides/P&MSP2014_14a_Risk-Management.pdf)
+  - [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
   - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 - **Other**
   - [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices-aw)
