@@ -62,6 +62,8 @@
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
 - [Wrong Ways of Defining Service Boundaries](https://medium.com/hackernoon/wrong-ways-of-defining-service-boundaries-d9e313007bcc)
 - [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
+- [Scalable Frontend](https://blog.codeminer42.com/scalable-frontend-1-architecture-9b80a16b8ec7/) [#2 Common Patterns](https://blog.codeminer42.com/scalable-frontend-2-common-patterns-d2f28aef0714/) [#3 The State Layer](https://blog.codeminer42.com/scalable-frontend-3-the-state-layer-b23ed69ca57c/)
+- [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
 
 ### Blogs/People
 
