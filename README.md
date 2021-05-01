@@ -10,6 +10,7 @@
 - [Software Architect](https://github.com/justinamiller/SoftwareArchitect)
 - [Skills map and roles & responsibilities of Solution Architects](https://github.com/NikAshanin/Solution-Architect-Road-Map)
 - [Software Architecture in Practice](https://sites.google.com/site/softwarearchitectureinpractice)
+- [CQRS, Event Sourcing and DDD FAQ - Your command-query responsibility segregation & DDD questions answered](https://cqrs.nu/Faq)
 
 ### Architectural Patterns
 
