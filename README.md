@@ -25,6 +25,7 @@
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [Sam Newman - Patterns](https://samnewman.io/patterns/)
 - [Solutions Architecture Patterns](https://github.com/chanakaudaya/solutions-architecture-patterns)
+- [An attempt to show alternative architectural patterns in CRUD based .Net web applications](https://github.com/jchannon/LayerAllTheThings)
 
 ### Microservices
 
@@ -77,6 +78,8 @@
 - [Jimmy Bogard](https://jimmybogard.com/)
 - [Steve Smith](https://github.com/ardalis)
 - [Joel Parker Henderson](https://github.com/joelparkerhenderson)
+- [Home of CQRS and Event Sourcing](https://danielwhittaker.me/blog/)
+- [CodeOpinion - Software Architecture & Design](https://codeopinion.com/)
 
 ### Video
 
