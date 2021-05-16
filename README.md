@@ -16,6 +16,7 @@
 
 - [The (mostly incomplete) guide to architecture patterns](https://patterns.arc42.org/home/)
 - [Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
+- [Cloud design patterns - Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
 - [Patterns for designing flexible architecture in node.js (CQRS/ES/Onion)](https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17)
 - [Various design patterns](https://github.com/DovAmir/awesome-design-patterns)
