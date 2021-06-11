@@ -81,6 +81,7 @@
 - [Joel Parker Henderson](https://github.com/joelparkerhenderson)
 - [Home of CQRS and Event Sourcing](https://danielwhittaker.me/blog/)
 - [CodeOpinion - Software Architecture & Design](https://codeopinion.com/)
+- [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
 
 ### Video
 
