@@ -118,6 +118,7 @@
 - [Example of a Software Architecture Document created as a companion to "Documenting Software Architectures: Views and Beyond"](https://wiki.sei.cmu.edu/sad/index.php/Main_Page)
 - [Documenting Software Architectures](https://www.slideshare.net/pagsousa/documenting-software-architectures)
 - [Architecture Document Template](https://www.slideshare.net/pmdelpech/gad-global-architecture-document-template-pm-delpech)
+- [The TOGAF standard is a framework for Enterprise Architecture](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
 
 ### Microfrontends
 
