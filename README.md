@@ -82,6 +82,8 @@
 - [Home of CQRS and Event Sourcing](https://danielwhittaker.me/blog/)
 - [CodeOpinion - Software Architecture & Design](https://codeopinion.com/)
 - [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
+- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
+- [Cirrus Minor](https://arnon.me/)
 
 ### Video
 
@@ -119,6 +121,8 @@
 - [Documenting Software Architectures](https://www.slideshare.net/pagsousa/documenting-software-architectures)
 - [Architecture Document Template](https://www.slideshare.net/pmdelpech/gad-global-architecture-document-template-pm-delpech)
 - [The TOGAF standard is a framework for Enterprise Architecture](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
+- [Software Architecture Document template](https://www.ecs.csun.edu/~rlingard/COMP684/Example2SoftArch.htm)
+- [Software Architecture Document template](https://arnon.me/wp-content/uploads/SAD.pdf)
 
 ### Microfrontends
 
