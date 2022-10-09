@@ -84,6 +84,7 @@
 - [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 - [Cirrus Minor](https://arnon.me/)
+- [Developer to Architect](https://www.developertoarchitect.com/lessons/)
 
 ### Video
 
@@ -218,6 +219,8 @@
   - [Architecture Documentation (Part 3/3)](https://videoportal.epam.com/video/8JOA9yoG)
 
 ### Books
+
+- https://github.com/mhadidg/software-architecture-books
 
 - **General Architectural Theory and Practice**
   - [.NET Microservices – Architecture for Containerized .NET Applications](http://aka.ms/MicroservicesEbook)
