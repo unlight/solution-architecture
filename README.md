@@ -160,6 +160,7 @@
 - [istio: An open platform to connect, manage, and secure microservices](https://github.com/istio/istio)
 - [registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
 - [The fastest, most reliable, Redis-based queue for Node](https://github.com/OptimalBits/bull)
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 
 ### .NET Starters
 
